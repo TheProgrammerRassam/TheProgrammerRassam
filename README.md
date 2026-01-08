@@ -366,18 +366,43 @@ const COSMIC_TRUTH = {
 
 ---
 
-<!-- GITHUB CONTRIBUTION SNAKE -->
+<!-- CONTRIBUTION VISUALIZATION -->
 <div align="center">
 
-## 🐍 **CONTRIBUTION SERPENT** 🐍
+## 🌌 **CONTRIBUTION MULTIVERSE** 🌌
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
-</picture>
+<!-- GitHub 3D Contributions Profile -->
+<img src="https://raw.githubusercontent.com/TheProgrammerRassam/TheProgrammerRassam/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contributions" width="100%" />
+
+<!-- إذا لم تعمل الصورة أعلاه، استخدم هذه البدائل: -->
+
+<br/>
+
+<!-- Contribution Heatmap Graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=TheProgrammerRassam&theme=react-dark&bg_color=0d1117&color=00ff00&line=00ffff&point=ff6b6b&area=true&hide_border=true&custom_title=🔥%20Contribution%20Fire%20Heatmap%20🔥" width="100%" />
+
+<br/>
+
+<!-- GitHub Metrics Card -->
+<img src="https://metrics.lecoq.io/TheProgrammerRassam?template=classic&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&languages=1&lines=1&people=1&activity=1&achievements=1&notable=1&discussions=1&followup=1&lines.sections=base&config.timezone=Asia%2FRiyadh&config.twemoji=1&config.octicon=1&config.display=large" width="100%" />
+
+<br/>
+
+<!-- Alternative: GitHub Contribution Chart -->
+<img src="https://ghchart.rshah.org/00ff00/TheProgrammerRassam" alt="GitHub Contribution Chart" width="100%" />
+
+<br/><br/>
+
+<!-- GitHub Skyline Button -->
+<a href="https://skyline.github.com/TheProgrammerRassam/2025">
+  <img src="https://img.shields.io/badge/🌌_View_My_3D_Skyline_2025-00ff00?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" alt="GitHub Skyline"/>
+</a>
+
+
 
 </div>
+
+
 
 ---
 
