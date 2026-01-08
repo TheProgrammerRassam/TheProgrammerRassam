@@ -21,11 +21,12 @@
 
 ---
 
-<div align="center">
+<div align="center" >
 
 <!-- Animated Typing Text -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&pause=1000&color=00FF00&center=true&vCenter=true&multiline=true&random=false&width=800&height=100&lines=%E2%9A%94+Web+Developer+%7C+%F0%9F%94%A5+Ethical+Hacker;%F0%9F%A7%99+Digital+Philosopher+%7C+%E2%99%BE+Code+Sorcerer;Breaking+Reality.+One+Line+at+a+Time." alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&pause=1000&color=00FF00&center=true&vCenter=true&multiline=true&random=false&width=900&height=200&lines=%E2%9A%94+Web+Developer+%7C+%F0%9F%94%A5+Ethical+Hacker;%F0%9F%A7%99+Digital+Philosopher+%7C+%E2%99%BE+Code+Sorcerer;Breaking+Reality.+One+Line+at+a+Time." alt="Typing SVG" /></a>
 
+<br/>
 <br/>
 
 <!-- Social Badges with Glow Effect -->
@@ -37,7 +38,6 @@
 </p>
 
 <!-- Trophy Wall -->
-<img width="100%" src="https://github-profile-trophy.vercel.app/?username=TheProgrammerRassam&theme=matrix&no-frame=true&no-bg=false&margin-w=4&column=8&rank=SECRET,SSS,SS,S,AAA,AA,A,B" />
 
 </div>
 
@@ -64,8 +64,7 @@
 
 ## 📊 **QUANTUM STATISTICS MODULE** 📊
 
-<img src="https://github-readme-stats.vercel.app/api?username=TheProgrammerRassam&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=00ff00&icon_color=00ffff&text_color=00ff00&border_radius=15&include_all_commits=true&count_private=true&custom_title=⚡%20COSMIC%20STATS%20⚡" width="49%" height="195"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheProgrammerRassam&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=00ff00&text_color=00ffff&border_radius=15&langs_count=10&custom_title=🔮%20LANGUAGE%20VAULT%20🔮" width="49%" height="195"/>
+
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=TheProgrammerRassam&theme=radical&hide_border=true&background=0d1117&ring=00ff00&fire=ff0000&currStreakNum=00ffff&sideNums=00ff00&currStreakLabel=00ffff&border_radius=15" width="98%"/>
 
